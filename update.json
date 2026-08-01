@@ -1,9 +1,8 @@
 {
-  "version_code": 2,
-  "version_name": "1.1",
-  "title": "Update Available",
-  "message": "A new version is available.",
-  "update_url": "https://kazuya112.github.io/app-update/app.apk",
-  "force_update": true
-
+  "versionCode": 16,
+  "versionName": "1.6",
+  "title": "New Update Available!",
+  "updateLink": "https://kazuya112.github.io/app-update/app.apk",
+  "isCancelable": true,
+  "whatsNew": "• Added Direct Download Option!\\n• Fixed video loading and buffering issues.\\n• Upgraded to a new, faster API for performance."
 }
